@@ -21,3 +21,8 @@ c = cat
 d =dog
 e =elephant
 
+**************
+f=fruits
+g=guva
+h=honeymelon
+
