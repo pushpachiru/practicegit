@@ -14,3 +14,10 @@ print"b is largest"
 else 
 print "c is largest"
 
+*************
+a =apple
+b = bat
+c = cat
+d =dog
+e =elephant
+
